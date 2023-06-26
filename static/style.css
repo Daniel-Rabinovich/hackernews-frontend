@@ -1,0 +1,11 @@
+body {
+    max-width:750px;
+    margin:5px auto;
+    font-family: 'Roboto', sans-serif;
+}
+a {
+    text-decoration: none;
+}
+b {
+    font-weight:700;
+}
